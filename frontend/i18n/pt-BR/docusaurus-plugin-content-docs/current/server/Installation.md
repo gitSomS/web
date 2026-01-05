@@ -76,7 +76,7 @@ Coloque os seguintes plugins na pasta **../components**, não na pasta **../plug
 | keylistener       | https://github.com/edgyaf/keylistener/releases/tag/1.1.2-pr                       |
 | SKY               | Use Pawn.RakNet em vez disso                                                      |
 | YSF               | Você não precisa do YSF porque o open.mp já declarou a maioria das mesmas natives |
-| FCNPC             | Atualmente não suportado                                                          |
+| FCNPC             | Substituído pelo componente oficial de NPC do open.mp                             |
 
 ## Passo 6
 
